@@ -23,3 +23,14 @@ Stemming is considered obsolete with the advent of Word Embedding, or is it? We 
 Syntactic Analysis of language is often overlooked. But if we want to reach the epitome of NLP and its sister branch - Image Processing, we need to understand both the syntax and the semantic of the language. Very few efforts have been given on syntactic aspect of BLP. In this project, we show how the syntactic aspect of BLP can greatly aid the discipline and finally present a Parts-of-speech tagger that follows the grammatical structure of Bangla.
 ** Defining State-of-the-art of Bangla NLP
 We are conducting extensive literature review to define the state-of-the-art of bangla NLP. This can make the process of getting started with working on Bangla NLP easier for new researchers as well serve as a aggregation to view the progress of Bangla and scope to focus on.
+
+*** Dr. Shebuty Rayana
+#+attr_html: :width 200px;
+[[file:Meet_with_the_teams!/Shebuty Rayana.jpg]]
+International Collaborator
+PhD, Computer Science
+Lecutrer, Stony Brook University.
+*** Zarif Masud
+#+attr_html: :width 200px;
+[[file:Meet_with_the_teams!/Zarif Masud.jpg]]
+Alumni

@@ -42,16 +42,6 @@ github link here
 Converting braille to bangla text. This allows faster and automated communication with people with blindness.
 github link here
 * International Collaborations
-*** Dr. Shebuty Rayana
-#+attr_html: :width 200px;
-[[file:Meet_with_the_teams!/Shebuty Rayana.jpg]]
-International Collaborator
-PhD, Computer Science
-Lecutrer, Stony Brook University.
-*** Zarif Masud
-#+attr_html: :width 200px;
-[[file:Meet_with_the_teams!/Zarif Masud.jpg]]
-Alumni
 * Meet with the Team!
 *** Dr. Ahmedul Kabir
 #+attr_html: :width 200px;
