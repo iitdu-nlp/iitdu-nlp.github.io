@@ -14,6 +14,11 @@ Hello! We are a group of enthusiastic people wanting to solve the many problems 
 #+DOWNLOADED: http://www.iit.du.ac.bd/assets/img/iitlogo-blue.png @ 2022-11-18 13:00:08
 #+attr_html: :width 200px;
 [[file:Goal/2022-11-18_13-00-08_iitlogo-blue.png]]
+** Contact Us
+iitdu-nlp@gmail.com
+01968399154
+P9HX+J8H, Suhrawardi Udyan Rd, Dhaka 1200
+
 * Projects
 ** Bangla Hate Speech Detection
 An intriguing and challenging problem as hate speech is subjective. What appears to be hate speech to a single person may be casual chat for another. And dialects, context-based hate speech just adds more interesting issues to the problem space.
@@ -72,9 +77,9 @@ Student of Bachelors
 Institute of Information Technology
 University of Dhaka
 Contact information: bsse1201@iit.du.ac.bd
-
-* Contact Us
-iitdu-nlp@gmail.com
-01968399154
-P9HX+J8H, Suhrawardi Udyan Rd, Dhaka 1200
+* Latest In BLP
+** Paraphrase Corpus Generation by CSE BUET NLP
+[[https://arxiv.org/abs/2210.05109][Paraphrase dataset]]
+** Bengali Sign Language Corpus Generation by 
+** 8M Dollar Corpus Generation Project by Megatech
 
