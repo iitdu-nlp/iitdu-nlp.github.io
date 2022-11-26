@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2022-11-21 সোম 20:34 -->
+<!-- 2022-11-24 বৃহঃ 10:00 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>NLP, Institute of Information Technology, University of Dhaka</title>
@@ -28,68 +28,89 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgfd6f0a4">1. Goal</a></li>
-<li><a href="#org1c05383">2. Projects</a>
+<li><a href="#org2a56ebd">1. Goal</a>
 <ul>
-<li><a href="#org4347597">2.1. Bangla Hate Speech Detection</a></li>
-<li><a href="#orgbc0d1a4">2.2. Bangla Sign Language</a>
-<ul>
-<li><a href="#org7a59492">Speech to Sign Language Animation</a></li>
-<li><a href="#org55164a0">Dynamic Sign Detection in BSL</a></li>
-<li><a href="#orgc73166a">Universal Bangla Sign Language Detection</a></li>
-<li><a href="#org6e547da">Fine-Tuning State-of-the-art BSL</a></li>
+<li><a href="#org0a465df">1.1. Contact Us</a></li>
 </ul>
 </li>
-<li><a href="#org1ab647a">2.3. Bangla Stemmer</a></li>
-<li><a href="#orgc90a3c2">2.4. Bangla Parts-of-Speech Tagging</a></li>
-<li><a href="#org5b18766">2.5. Defining State-of-the-art of Bangla NLP</a></li>
-<li><a href="#org468841e">2.6. <span class="done DONE">DONE</span> Bangla Braille</a></li>
-</ul>
-</li>
-<li><a href="#org7c6f8ca">3. Publications</a>
+<li><a href="#org7a44d0c">2. Projects</a>
 <ul>
-<li><a href="#org86a5947">3.1. Bangla Braille</a></li>
+<li><a href="#org46f491c">2.1. Bangla Hate Speech Detection</a></li>
+<li><a href="#org3045c58">2.2. Bangla Sign Language</a>
+<ul>
+<li><a href="#orgebce8b1">Speech to Sign Language Animation</a></li>
+<li><a href="#org667cc27">Dynamic Sign Detection in BSL</a></li>
+<li><a href="#orge7e0e00">Universal Bangla Sign Language Detection</a></li>
+<li><a href="#org7674d54">Fine-Tuning State-of-the-art BSL</a></li>
 </ul>
 </li>
-<li><a href="#orgc371c39">4. International Collaborations</a></li>
-<li><a href="#org7af288c">5. Meet with the Team!</a>
+<li><a href="#org2f2775c">2.3. Bangla Stemmer</a></li>
+<li><a href="#org143017f">2.4. Bangla Parts-of-Speech Tagging</a></li>
+<li><a href="#org1b67c95">2.5. Defining State-of-the-art of Bangla NLP</a></li>
+<li><a href="#orgfac17f0">2.6. <span class="done DONE">DONE</span> Bangla Braille</a></li>
+</ul>
+</li>
+<li><a href="#org51bfa8a">3. Publications</a>
+<ul>
+<li><a href="#orge464b7a">3.1. Bangla Braille</a></li>
+</ul>
+</li>
+<li><a href="#org79a1afc">4. International Collaborations</a></li>
+<li><a href="#org9652407">5. Meet with the Team!</a>
 <ul>
 <li>
 <ul>
-<li><a href="#org12266b1">Dr. Ahmedul Kabir</a></li>
-<li><a href="#orgc845c0d">Sharif Mohammad Abdullah</a></li>
-<li><a href="#orgc8bfcdd">Mashiat Amin Farin</a></li>
-<li><a href="#org3419023">Abhijit Paul</a></li>
+<li><a href="#org3f79dad">Dr. Ahmedul Kabir</a></li>
+<li><a href="#orgde5220f">Sharif Mohammad Abdullah</a></li>
+<li><a href="#org1f0d619">Mashiat Amin Farin</a></li>
+<li><a href="#org72037b6">Abhijit Paul</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org1223f5c">6. Contact Us</a></li>
+<li><a href="#org7da5db9">6. Latest In BLP</a>
+<ul>
+<li><a href="#org1da4f99">6.1. Paraphrase Corpus Generation by CSE BUET NLP</a></li>
+<li><a href="#org4e74fc5">6.2. Bengali Sign Language Corpus Generation by</a></li>
+<li><a href="#org7940b75">6.3. 8M Dollar Corpus Generation Project by Megatech</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
 <script type="text/javascript"> function generateMiniToc(divId) { } </script>
 
-<div id="outline-container-orgfd6f0a4" class="outline-2">
-<h2 id="orgfd6f0a4"><span class="section-number-2">1.</span> Goal</h2>
+<div id="outline-container-org2a56ebd" class="outline-2">
+<h2 id="org2a56ebd"><span class="section-number-2">1.</span> Goal</h2>
 <div class="outline-text-2" id="text-1">
 <p>
 Hello! We are a group of enthusiastic people wanting to solve the many problems around Bangla Natural Language Processing. We extensively focus on social inclusion and accessibility for universalism of human values.<br />
 </p>
 
 
-<div id="org11f362c" class="figure">
+<div id="orgdd96e3a" class="figure">
 <p><img src="Goal/2022-11-18_13-00-08_iitlogo-blue.png" alt="2022-11-18_13-00-08_iitlogo-blue.png" width="200px;" /><br />
 </p>
 </div>
 </div>
+<div id="outline-container-org0a465df" class="outline-3">
+<h3 id="org0a465df"><span class="section-number-3">1.1.</span> Contact Us</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+iitdu-nlp@gmail.com<br />
+01968399154<br />
+P9HX+J8H, Suhrawardi Udyan Rd, Dhaka 1200<br />
+</p>
 </div>
-<div id="outline-container-org1c05383" class="outline-2">
-<h2 id="org1c05383"><span class="section-number-2">2.</span> Projects</h2>
+</div>
+</div>
+
+<div id="outline-container-org7a44d0c" class="outline-2">
+<h2 id="org7a44d0c"><span class="section-number-2">2.</span> Projects</h2>
 <div class="outline-text-2" id="text-2">
 </div>
-<div id="outline-container-org4347597" class="outline-3">
-<h3 id="org4347597"><span class="section-number-3">2.1.</span> Bangla Hate Speech Detection</h3>
+<div id="outline-container-org46f491c" class="outline-3">
+<h3 id="org46f491c"><span class="section-number-3">2.1.</span> Bangla Hate Speech Detection</h3>
 <div class="outline-text-3" id="text-2-1">
 <p>
 An intriguing and challenging problem as hate speech is subjective. What appears to be hate speech to a single person may be casual chat for another. And dialects, context-based hate speech just adds more interesting issues to the problem space.<br />
@@ -97,72 +118,72 @@ In this project, we aim to make a hate speech detection model that can aid the s
 </p>
 </div>
 </div>
-<div id="outline-container-orgbc0d1a4" class="outline-3">
-<h3 id="orgbc0d1a4"><span class="section-number-3">2.2.</span> Bangla Sign Language</h3>
+<div id="outline-container-org3045c58" class="outline-3">
+<h3 id="org3045c58"><span class="section-number-3">2.2.</span> Bangla Sign Language</h3>
 <div class="outline-text-3" id="text-2-2">
 <p>
 Social inclusion and accessibility is at the foundation of our research group. We are currently working on three projects on Bengali Sign Language.<br />
 </p>
 </div>
-<div id="outline-container-org7a59492" class="outline-4">
-<h4 id="org7a59492">Speech to Sign Language Animation</h4>
-<div class="outline-text-4" id="text-org7a59492">
+<div id="outline-container-orgebce8b1" class="outline-4">
+<h4 id="orgebce8b1">Speech to Sign Language Animation</h4>
+<div class="outline-text-4" id="text-orgebce8b1">
 <p>
 Instead of a human translator of speech to sign language, we are automating the process. This way, it would be cheap and easily accessible by everyone. We also wish to make this software as lightweight as possible so that rural people can access and use it even with a moderately simple device.<br />
 </p>
 </div>
 </div>
-<div id="outline-container-org55164a0" class="outline-4">
-<h4 id="org55164a0">Dynamic Sign Detection in BSL</h4>
-<div class="outline-text-4" id="text-org55164a0">
+<div id="outline-container-org667cc27" class="outline-4">
+<h4 id="org667cc27">Dynamic Sign Detection in BSL</h4>
+<div class="outline-text-4" id="text-org667cc27">
 <p>
 A lot of works has been done on detecting static sign language symbols in bangla. But few efforts were given on detecting dynamic sign language. We are preparing a dataset with collaboration with JPUF to identify dynamic sign detection in BSL.<br />
 </p>
 </div>
 </div>
-<div id="outline-container-orgc73166a" class="outline-4">
-<h4 id="orgc73166a">Universal Bangla Sign Language Detection</h4>
-<div class="outline-text-4" id="text-orgc73166a">
+<div id="outline-container-orge7e0e00" class="outline-4">
+<h4 id="orge7e0e00">Universal Bangla Sign Language Detection</h4>
+<div class="outline-text-4" id="text-orge7e0e00">
 <p>
 This project aims to map the entire sign language symbol dictionary digitally. We are collecting data to build such datasets at this moment. Considering locale of one is one important aspect of this project.<br />
 </p>
 </div>
 </div>
-<div id="outline-container-org6e547da" class="outline-4">
-<h4 id="org6e547da">Fine-Tuning State-of-the-art BSL</h4>
-<div class="outline-text-4" id="text-org6e547da">
+<div id="outline-container-org7674d54" class="outline-4">
+<h4 id="org7674d54">Fine-Tuning State-of-the-art BSL</h4>
+<div class="outline-text-4" id="text-org7674d54">
 <p>
 We have noticed that there are room for improvements in existing static sign language word and sign language alphabet detection. We also wish to make a better preprocessor for bangla sign language image processing. This is an auxiliary project to help the community.<br />
 </p>
 </div>
 </div>
 </div>
-<div id="outline-container-org1ab647a" class="outline-3">
-<h3 id="org1ab647a"><span class="section-number-3">2.3.</span> Bangla Stemmer</h3>
+<div id="outline-container-org2f2775c" class="outline-3">
+<h3 id="org2f2775c"><span class="section-number-3">2.3.</span> Bangla Stemmer</h3>
 <div class="outline-text-3" id="text-2-3">
 <p>
 Stemming is considered obsolete with the advent of Word Embedding, or is it? We aim to answer such questions in this project. Stemmer is a universal preprocessing step that can help all of the existing bangla natural language processing. So we are building a stemmer for bangla following the same evolution that English stemmers did from Lovins.<br />
 </p>
 </div>
 </div>
-<div id="outline-container-orgc90a3c2" class="outline-3">
-<h3 id="orgc90a3c2"><span class="section-number-3">2.4.</span> Bangla Parts-of-Speech Tagging</h3>
+<div id="outline-container-org143017f" class="outline-3">
+<h3 id="org143017f"><span class="section-number-3">2.4.</span> Bangla Parts-of-Speech Tagging</h3>
 <div class="outline-text-3" id="text-2-4">
 <p>
 Syntactic Analysis of language is often overlooked. But if we want to reach the epitome of NLP and its sister branch - Image Processing, we need to understand both the syntax and the semantic of the language. Very few efforts have been given on syntactic aspect of BLP. In this project, we show how the syntactic aspect of BLP can greatly aid the discipline and finally present a Parts-of-speech tagger that follows the grammatical structure of Bangla.<br />
 </p>
 </div>
 </div>
-<div id="outline-container-org5b18766" class="outline-3">
-<h3 id="org5b18766"><span class="section-number-3">2.5.</span> Defining State-of-the-art of Bangla NLP</h3>
+<div id="outline-container-org1b67c95" class="outline-3">
+<h3 id="org1b67c95"><span class="section-number-3">2.5.</span> Defining State-of-the-art of Bangla NLP</h3>
 <div class="outline-text-3" id="text-2-5">
 <p>
 We are conducting extensive literature review to define the state-of-the-art of bangla NLP. This can make the process of getting started with working on Bangla NLP easier for new researchers as well serve as a aggregation to view the progress of Bangla and scope to focus on.<br />
 </p>
 </div>
 </div>
-<div id="outline-container-org468841e" class="outline-3">
-<h3 id="org468841e"><span class="section-number-3">2.6.</span> <span class="done DONE">DONE</span> Bangla Braille</h3>
+<div id="outline-container-orgfac17f0" class="outline-3">
+<h3 id="orgfac17f0"><span class="section-number-3">2.6.</span> <span class="done DONE">DONE</span> Bangla Braille</h3>
 <div class="outline-text-3" id="text-2-6">
 <p>
 Converting braille to bangla text. This allows faster and automated communication with people with blindness.<br />
@@ -171,12 +192,12 @@ github link here<br />
 </div>
 </div>
 </div>
-<div id="outline-container-org7c6f8ca" class="outline-2">
-<h2 id="org7c6f8ca"><span class="section-number-2">3.</span> Publications</h2>
+<div id="outline-container-org51bfa8a" class="outline-2">
+<h2 id="org51bfa8a"><span class="section-number-2">3.</span> Publications</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org86a5947" class="outline-3">
-<h3 id="org86a5947"><span class="section-number-3">3.1.</span> Bangla Braille</h3>
+<div id="outline-container-orge464b7a" class="outline-3">
+<h3 id="orge464b7a"><span class="section-number-3">3.1.</span> Bangla Braille</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 Converting braille to bangla text. This allows faster and automated communication with people with blindness.<br />
@@ -185,16 +206,16 @@ github link here<br />
 </div>
 </div>
 </div>
-<div id="outline-container-orgc371c39" class="outline-2">
-<h2 id="orgc371c39"><span class="section-number-2">4.</span> International Collaborations</h2>
+<div id="outline-container-org79a1afc" class="outline-2">
+<h2 id="org79a1afc"><span class="section-number-2">4.</span> International Collaborations</h2>
 </div>
-<div id="outline-container-org7af288c" class="outline-2">
-<h2 id="org7af288c"><span class="section-number-2">5.</span> Meet with the Team!</h2>
+<div id="outline-container-org9652407" class="outline-2">
+<h2 id="org9652407"><span class="section-number-2">5.</span> Meet with the Team!</h2>
 <div class="outline-text-2" id="text-5">
 </div>
-<div id="outline-container-org12266b1" class="outline-4">
-<h4 id="org12266b1">Dr. Ahmedul Kabir</h4>
-<div class="outline-text-4" id="text-org12266b1">
+<div id="outline-container-org3f79dad" class="outline-4">
+<h4 id="org3f79dad">Dr. Ahmedul Kabir</h4>
+<div class="outline-text-4" id="text-org3f79dad">
 <p width="200px;">
 <img src="Meet_with_the_teams!/Dr Ahmedul Kabir.jpg" alt="Dr Ahmedul Kabir.jpg" width="200px;" /><br />
 Associate Professor<br />
@@ -204,9 +225,9 @@ Contact information: kabir@iit.du.ac.bd<br />
 </p>
 </div>
 </div>
-<div id="outline-container-orgc845c0d" class="outline-4">
-<h4 id="orgc845c0d">Sharif Mohammad Abdullah</h4>
-<div class="outline-text-4" id="text-orgc845c0d">
+<div id="outline-container-orgde5220f" class="outline-4">
+<h4 id="orgde5220f">Sharif Mohammad Abdullah</h4>
+<div class="outline-text-4" id="text-orgde5220f">
 <p width="200px;">
 <img src="Meet_with_the_teams!/Sharif Mohammad Abdullah.jpg" alt="Sharif Mohammad Abdullah.jpg" width="200px;" /><br />
 Student of Bachelors<br />
@@ -216,9 +237,9 @@ Contact information: bsse1211@iit.du.ac.bd<br />
 </p>
 </div>
 </div>
-<div id="outline-container-orgc8bfcdd" class="outline-4">
-<h4 id="orgc8bfcdd">Mashiat Amin Farin</h4>
-<div class="outline-text-4" id="text-orgc8bfcdd">
+<div id="outline-container-org1f0d619" class="outline-4">
+<h4 id="org1f0d619">Mashiat Amin Farin</h4>
+<div class="outline-text-4" id="text-org1f0d619">
 <p width="200px;">
 <img src="Meet_with_the_teams!/Mashiat Amin Farin.jpg" alt="Mashiat Amin Farin.jpg" width="200px;" /><br />
 Student of Bachelors<br />
@@ -229,9 +250,9 @@ Contact information: bsse1202@iit.du.ac.bd<br />
 </div>
 </div>
 
-<div id="outline-container-org3419023" class="outline-4">
-<h4 id="org3419023">Abhijit Paul</h4>
-<div class="outline-text-4" id="text-org3419023">
+<div id="outline-container-org72037b6" class="outline-4">
+<h4 id="org72037b6">Abhijit Paul</h4>
+<div class="outline-text-4" id="text-org72037b6">
 <p width="200px;">
 <img src="Meet_with_the_teams!/Abhijit Paul.jpg" alt="Abhijit Paul.jpg" width="200px;" /><br />
 Student of Bachelors<br />
@@ -242,21 +263,29 @@ Contact information: bsse1201@iit.du.ac.bd<br />
 </div>
 </div>
 </div>
-
-<div id="outline-container-org1223f5c" class="outline-2">
-<h2 id="org1223f5c"><span class="section-number-2">6.</span> Contact Us</h2>
+<div id="outline-container-org7da5db9" class="outline-2">
+<h2 id="org7da5db9"><span class="section-number-2">6.</span> Latest In BLP</h2>
 <div class="outline-text-2" id="text-6">
+</div>
+<div id="outline-container-org1da4f99" class="outline-3">
+<h3 id="org1da4f99"><span class="section-number-3">6.1.</span> Paraphrase Corpus Generation by CSE BUET NLP</h3>
+<div class="outline-text-3" id="text-6-1">
 <p>
-iitdu-nlp@gmail.com<br />
-01968399154<br />
-P9HX+J8H, Suhrawardi Udyan Rd, Dhaka 1200<br />
+<a href="https://arxiv.org/abs/2210.05109">Paraphrase dataset</a><br />
 </p>
+</div>
+</div>
+<div id="outline-container-org4e74fc5" class="outline-3">
+<h3 id="org4e74fc5"><span class="section-number-3">6.2.</span> Bengali Sign Language Corpus Generation by</h3>
+</div>
+<div id="outline-container-org7940b75" class="outline-3">
+<h3 id="org7940b75"><span class="section-number-3">6.3.</span> 8M Dollar Corpus Generation Project by Megatech</h3>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Abhijit Paul</p>
-<p class="date">Created: 2022-11-21 সোম 20:34</p>
+<p class="date">Created: 2022-11-24 বৃহঃ 10:00</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

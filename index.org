@@ -80,6 +80,5 @@ Contact information: bsse1201@iit.du.ac.bd
 * Latest In BLP
 ** Paraphrase Corpus Generation by CSE BUET NLP
 [[https://arxiv.org/abs/2210.05109][Paraphrase dataset]]
-** Bengali Sign Language Corpus Generation by 
 ** 8M Dollar Corpus Generation Project by Megatech
-
+** Bengali.AI BSL Corpus Generation
