@@ -1,5 +1,5 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
-#+TITLE: NLP, Institute of Information Technology, University of Dhaka
+#+TITLE: Bangla NLP, IIT, University of Dhaka
 #+OPTIONS: \n:t
 #+options: num:2
 
@@ -18,6 +18,8 @@ Hello! We are a group of enthusiastic people wanting to solve the many problems 
 iitdu-nlp@gmail.com
 01968399154
 P9HX+J8H, Suhrawardi Udyan Rd, Dhaka 1200
+** Request Project
+If you have a project related to BLP in mind, feel free to reach out to us! 
 
 * Publications
 ** Bangla Braille
@@ -82,10 +84,3 @@ Contact information: bsse1201@iit.du.ac.bd
 [[https://arxiv.org/abs/2210.05109][Paraphrase dataset]]
 ** 8M Dollar Corpus Generation Project by Megatech
 ** Bengali.AI BSL Corpus Generation
-* Request Project
-If you have a project related to BLP in mind, feel free to reach out to us! 
-
-Contact Number:
-01968399154
-iitdu-nlp@gmail.com
-bsse1201@iit.du.ac.bd
