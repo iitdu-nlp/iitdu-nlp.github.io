@@ -1,0 +1,3 @@
+#+TITLE: Robustification of Behavioral Design against Environmental Deviation
+#+AUTHOR: Abhijit Paul
+#+DATE: <2024-06-25 মঙ্গল>
