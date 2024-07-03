@@ -1,2 +1,0 @@
-* Tags to remove after org-export
-1. expand-all, collapse all
